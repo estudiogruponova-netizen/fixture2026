@@ -1,0 +1,20 @@
+{
+  "updatedAt": null,
+  "source": "Fixture base. Cuando GitHub Actions corra, este archivo se actualiza con football-data.org.",
+  "results": {
+    "A1": {
+      "score": "2 - 0",
+      "status": "Finalizado",
+      "goals": "Julián Quiñones 8’ y Raúl Jiménez 67’. Rojas: Sithole y Zwane en Sudáfrica; César Montes en México.",
+      "summary": "México arrancó fuerte en el Azteca: ganó 2-0, golpeó temprano y liquidó con Jiménez. Partido caliente, tres expulsados y primer golpe de autoridad del anfitrión.",
+      "source": "Carga inicial"
+    },
+    "A2": {
+      "score": "2 - 1",
+      "status": "Finalizado",
+      "goals": "Chequia: Ladislav Krejčí 59’. Corea del Sur: Hwang In-beom 67’ y Oh Hyeon-gyu 80’.",
+      "summary": "Corea del Sur lo dio vuelta en Guadalajara: empezó abajo, empató con Hwang y Oh Hyeon-gyu apareció a los 80’ para una victoria clave en el Grupo A.",
+      "source": "Carga inicial"
+    }
+  }
+}
