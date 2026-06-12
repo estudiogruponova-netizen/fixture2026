@@ -1,20 +1,631 @@
 {
-  "updatedAt": null,
-  "source": "Fixture base. Cuando GitHub Actions corra, este archivo se actualiza con football-data.org.",
+  "updatedAt": "2026-06-12T17:51:45.789Z",
+  "source": "football-data.org",
+  "automatic": true,
+  "matchedResults": 69,
+  "apiMatchesRead": 104,
+  "lastError": null,
   "results": {
     "A1": {
-      "score": "2 - 0",
-      "status": "Finalizado",
-      "goals": "Julián Quiñones 8’ y Raúl Jiménez 67’. Rojas: Sithole y Zwane en Sudáfrica; César Montes en México.",
-      "summary": "México arrancó fuerte en el Azteca: ganó 2-0, golpeó temprano y liquidó con Jiménez. Partido caliente, tres expulsados y primer golpe de autoridad del anfitrión.",
-      "source": "Carga inicial"
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo A: México vs Sudáfrica en Mexico City Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537390,
+      "utcDate": "2026-07-19T19:00:00Z"
     },
     "A2": {
       "score": "2 - 1",
       "status": "Finalizado",
-      "goals": "Chequia: Ladislav Krejčí 59’. Corea del Sur: Hwang In-beom 67’ y Oh Hyeon-gyu 80’.",
-      "summary": "Corea del Sur lo dio vuelta en Guadalajara: empezó abajo, empató con Hwang y Oh Hyeon-gyu apareció a los 80’ para una victoria clave en el Grupo A.",
-      "source": "Carga inicial"
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Corea del Sur venció 2 - 1 a Chequia por el Grupo A. Resultado actualizado automáticamente con datos de la API.",
+      "source": "football-data.org",
+      "apiMatchId": 537328,
+      "utcDate": "2026-06-12T02:00:00Z"
+    },
+    "D1": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo D: Estados Unidos vs Paraguay en Los Angeles Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537345,
+      "utcDate": "2026-06-13T01:00:00Z"
+    },
+    "B2": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo B: Catar vs Suiza en San Francisco Bay Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537334,
+      "utcDate": "2026-06-13T19:00:00Z"
+    },
+    "C1": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo C: Brasil vs Marruecos en New York New Jersey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537339,
+      "utcDate": "2026-06-13T22:00:00Z"
+    },
+    "C2": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo C: Haití vs Escocia en Boston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537340,
+      "utcDate": "2026-06-14T01:00:00Z"
+    },
+    "D2": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo D: Australia vs Turquía en BC Place Vancouver. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537346,
+      "utcDate": "2026-06-14T04:00:00Z"
+    },
+    "E1": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo E: Alemania vs Curazao en Houston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537351,
+      "utcDate": "2026-06-14T17:00:00Z"
+    },
+    "F1": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo F: Países Bajos vs Japón en Dallas Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537357,
+      "utcDate": "2026-06-14T20:00:00Z"
+    },
+    "E2": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo E: Costa de Marfil vs Ecuador en Philadelphia Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537352,
+      "utcDate": "2026-06-14T23:00:00Z"
+    },
+    "F2": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo F: Túnez vs Suecia en Monterrey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537358,
+      "utcDate": "2026-06-15T02:00:00Z"
+    },
+    "H1": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo H: España vs Cabo Verde en Atlanta Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537369,
+      "utcDate": "2026-06-15T16:00:00Z"
+    },
+    "G1": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo G: Bélgica vs Egipto en Seattle Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537363,
+      "utcDate": "2026-06-15T19:00:00Z"
+    },
+    "H2": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo H: Arabia Saudita vs Uruguay en Miami Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537370,
+      "utcDate": "2026-06-15T22:00:00Z"
+    },
+    "G2": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo G: Irán vs Nueva Zelanda en Los Angeles Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537364,
+      "utcDate": "2026-06-16T01:00:00Z"
+    },
+    "I1": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo I: Francia vs Senegal en New York New Jersey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537391,
+      "utcDate": "2026-06-16T19:00:00Z"
+    },
+    "I2": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo I: Irak vs Noruega en Boston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537392,
+      "utcDate": "2026-06-16T22:00:00Z"
+    },
+    "J1": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo J: Argentina vs Argelia en Kansas City Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537397,
+      "utcDate": "2026-06-17T01:00:00Z"
+    },
+    "J2": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo J: Austria vs Jordania en San Francisco Bay Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537398,
+      "utcDate": "2026-06-17T04:00:00Z"
+    },
+    "K1": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo K: Portugal vs RD Congo en Houston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537403,
+      "utcDate": "2026-06-17T17:00:00Z"
+    },
+    "L1": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo L: Inglaterra vs Croacia en Dallas Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537409,
+      "utcDate": "2026-06-17T20:00:00Z"
+    },
+    "L2": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo L: Ghana vs Panamá en Toronto Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537410,
+      "utcDate": "2026-06-17T23:00:00Z"
+    },
+    "K2": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo K: Uzbekistán vs Colombia en Mexico City Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537404,
+      "utcDate": "2026-06-18T02:00:00Z"
+    },
+    "A3": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo A: Chequia vs Sudáfrica en Atlanta Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537329,
+      "utcDate": "2026-06-18T16:00:00Z"
+    },
+    "B4": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo B: Canadá vs Catar en BC Place Vancouver. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537336,
+      "utcDate": "2026-06-18T22:00:00Z"
+    },
+    "A4": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo A: México vs Corea del Sur en Guadalajara Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537330,
+      "utcDate": "2026-06-19T01:00:00Z"
+    },
+    "D3": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo D: Estados Unidos vs Australia en Seattle Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537348,
+      "utcDate": "2026-06-19T19:00:00Z"
+    },
+    "C3": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo C: Escocia vs Marruecos en Boston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537342,
+      "utcDate": "2026-06-19T22:00:00Z"
+    },
+    "C4": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo C: Brasil vs Haití en Philadelphia Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537341,
+      "utcDate": "2026-06-20T00:30:00Z"
+    },
+    "D4": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo D: Turquía vs Paraguay en San Francisco Bay Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537347,
+      "utcDate": "2026-06-20T03:00:00Z"
+    },
+    "F3": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo F: Países Bajos vs Suecia en Houston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537359,
+      "utcDate": "2026-06-20T17:00:00Z"
+    },
+    "E3": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo E: Alemania vs Costa de Marfil en Toronto Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537353,
+      "utcDate": "2026-06-20T20:00:00Z"
+    },
+    "E4": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo E: Ecuador vs Curazao en Kansas City Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537354,
+      "utcDate": "2026-06-21T00:00:00Z"
+    },
+    "F4": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo F: Túnez vs Japón en Monterrey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537360,
+      "utcDate": "2026-06-21T04:00:00Z"
+    },
+    "H3": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo H: España vs Arabia Saudita en Atlanta Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537371,
+      "utcDate": "2026-06-21T16:00:00Z"
+    },
+    "G3": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo G: Bélgica vs Irán en Los Angeles Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537365,
+      "utcDate": "2026-06-21T19:00:00Z"
+    },
+    "H4": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo H: Uruguay vs Cabo Verde en Miami Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537372,
+      "utcDate": "2026-06-21T22:00:00Z"
+    },
+    "G4": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo G: Nueva Zelanda vs Egipto en BC Place Vancouver. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537366,
+      "utcDate": "2026-06-22T01:00:00Z"
+    },
+    "J3": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo J: Argentina vs Austria en Dallas Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537399,
+      "utcDate": "2026-06-22T17:00:00Z"
+    },
+    "I3": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo I: Francia vs Irak en Philadelphia Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537393,
+      "utcDate": "2026-06-22T21:00:00Z"
+    },
+    "I4": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo I: Noruega vs Senegal en New York New Jersey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537394,
+      "utcDate": "2026-06-23T00:00:00Z"
+    },
+    "J4": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo J: Jordania vs Argelia en San Francisco Bay Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537400,
+      "utcDate": "2026-06-23T03:00:00Z"
+    },
+    "K3": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo K: Portugal vs Uzbekistán en Houston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537405,
+      "utcDate": "2026-06-23T17:00:00Z"
+    },
+    "L3": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo L: Inglaterra vs Ghana en Boston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537411,
+      "utcDate": "2026-06-23T20:00:00Z"
+    },
+    "L4": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo L: Panamá vs Croacia en Toronto Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537412,
+      "utcDate": "2026-06-23T23:00:00Z"
+    },
+    "K4": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo K: Colombia vs RD Congo en Guadalajara Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537406,
+      "utcDate": "2026-06-24T02:00:00Z"
+    },
+    "B5": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo B: Suiza vs Canadá en BC Place Vancouver. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537337,
+      "utcDate": "2026-06-24T19:00:00Z"
+    },
+    "C6": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo C: Marruecos vs Haití en Atlanta Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537344,
+      "utcDate": "2026-06-24T22:00:00Z"
+    },
+    "C5": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo C: Brasil vs Escocia en Miami Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537343,
+      "utcDate": "2026-06-24T22:00:00Z"
+    },
+    "A5": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo A: México vs Chequia en Mexico City Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537331,
+      "utcDate": "2026-06-25T01:00:00Z"
+    },
+    "A6": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo A: Sudáfrica vs Corea del Sur en Monterrey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537332,
+      "utcDate": "2026-06-25T01:00:00Z"
+    },
+    "E5": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo E: Ecuador vs Alemania en New York New Jersey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537355,
+      "utcDate": "2026-06-25T20:00:00Z"
+    },
+    "E6": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo E: Curazao vs Costa de Marfil en Philadelphia Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537356,
+      "utcDate": "2026-06-25T20:00:00Z"
+    },
+    "F5": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo F: Túnez vs Países Bajos en Kansas City Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537361,
+      "utcDate": "2026-06-25T23:00:00Z"
+    },
+    "F6": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo F: Japón vs Suecia en Dallas Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537362,
+      "utcDate": "2026-06-25T23:00:00Z"
+    },
+    "D5": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo D: Estados Unidos vs Turquía en Los Angeles Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537349,
+      "utcDate": "2026-06-26T02:00:00Z"
+    },
+    "D6": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo D: Paraguay vs Australia en San Francisco Bay Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537350,
+      "utcDate": "2026-06-26T02:00:00Z"
+    },
+    "I5": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo I: Noruega vs Francia en Boston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537395,
+      "utcDate": "2026-06-26T19:00:00Z"
+    },
+    "I6": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo I: Senegal vs Irak en Toronto Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537396,
+      "utcDate": "2026-06-26T19:00:00Z"
+    },
+    "H5": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo H: Uruguay vs España en Guadalajara Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537373,
+      "utcDate": "2026-06-27T00:00:00Z"
+    },
+    "H6": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo H: Cabo Verde vs Arabia Saudita en Houston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537374,
+      "utcDate": "2026-06-27T00:00:00Z"
+    },
+    "G5": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo G: Nueva Zelanda vs Bélgica en BC Place Vancouver. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537367,
+      "utcDate": "2026-06-27T03:00:00Z"
+    },
+    "G6": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo G: Egipto vs Irán en Seattle Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537368,
+      "utcDate": "2026-06-27T03:00:00Z"
+    },
+    "L5": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo L: Panamá vs Inglaterra en New York New Jersey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537413,
+      "utcDate": "2026-06-27T21:00:00Z"
+    },
+    "L6": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo L: Croacia vs Ghana en Philadelphia Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537414,
+      "utcDate": "2026-06-27T21:00:00Z"
+    },
+    "K5": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo K: Colombia vs Portugal en Miami Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537407,
+      "utcDate": "2026-06-27T23:30:00Z"
+    },
+    "K6": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo K: RD Congo vs Uzbekistán en Atlanta Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537408,
+      "utcDate": "2026-06-27T23:30:00Z"
+    },
+    "J5": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo J: Argentina vs Jordania en Dallas Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537401,
+      "utcDate": "2026-06-28T02:00:00Z"
+    },
+    "J6": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo J: Argelia vs Austria en Kansas City Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537402,
+      "utcDate": "2026-06-28T02:00:00Z"
     }
   }
 }
