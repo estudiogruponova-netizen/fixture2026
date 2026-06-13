@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T00:24:03.385Z",
+  "updatedAt": "2026-06-13T05:05:19.332Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -25,10 +25,10 @@
       "utcDate": "2026-06-12T02:00:00Z"
     },
     "D1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo D: Estados Unidos vs Paraguay en Los Angeles Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "4 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Estados Unidos venció 4 - 1 a Paraguay por el Grupo D. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537345,
       "utcDate": "2026-06-13T01:00:00Z"
