@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T21:20:36.525Z",
+  "updatedAt": "2026-06-13T22:38:11.907Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -43,10 +43,10 @@
       "utcDate": "2026-06-13T19:00:00Z"
     },
     "C1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo C: Brasil vs Marruecos en New York New Jersey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Brasil vs Marruecos está en juego por el Grupo C. Marcador actual: 0 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537339,
       "utcDate": "2026-06-13T22:00:00Z"
