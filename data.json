@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T18:00:21.906Z",
+  "updatedAt": "2026-06-13T19:52:39.120Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -34,10 +34,10 @@
       "utcDate": "2026-06-13T01:00:00Z"
     },
     "B2": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo B: Catar vs Suiza en San Francisco Bay Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Catar vs Suiza está en juego por el Grupo B. Marcador actual: 0 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537334,
       "utcDate": "2026-06-13T19:00:00Z"
