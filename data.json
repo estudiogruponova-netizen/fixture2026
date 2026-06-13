@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T22:38:11.907Z",
+  "updatedAt": "2026-06-13T23:47:01.652Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -43,10 +43,10 @@
       "utcDate": "2026-06-13T19:00:00Z"
     },
     "C1": {
-      "score": "0 - 1",
+      "score": "1 - 1",
       "status": "En vivo",
       "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Brasil vs Marruecos está en juego por el Grupo C. Marcador actual: 0 - 1.",
+      "summary": "Brasil vs Marruecos está en juego por el Grupo C. Marcador actual: 1 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537339,
       "utcDate": "2026-06-13T22:00:00Z"
