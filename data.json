@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T02:05:14.928Z",
+  "updatedAt": "2026-06-14T06:56:19.598Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -53,18 +53,18 @@
     },
     "C2": {
       "score": "0 - 1",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Haití vs Escocia está en juego por el Grupo C. Marcador actual: 0 - 1.",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Escocia venció 0 - 1 a Haití por el Grupo C. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537340,
       "utcDate": "2026-06-14T01:00:00Z"
     },
     "D2": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo D: Australia vs Turquía en BC Place Vancouver. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "2 - 0",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Australia venció 2 - 0 a Turquía por el Grupo D. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537346,
       "utcDate": "2026-06-14T04:00:00Z"
