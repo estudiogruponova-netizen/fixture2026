@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T19:51:35.385Z",
+  "updatedAt": "2026-06-14T21:17:05.480Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -79,10 +79,10 @@
       "utcDate": "2026-06-14T17:00:00Z"
     },
     "F1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo F: Países Bajos vs Japón en Dallas Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Países Bajos vs Japón está en juego por el Grupo F. Marcador actual: 1 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537357,
       "utcDate": "2026-06-14T20:00:00Z"
