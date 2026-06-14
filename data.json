@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T21:17:05.480Z",
+  "updatedAt": "2026-06-14T22:37:25.232Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -79,10 +79,10 @@
       "utcDate": "2026-06-14T17:00:00Z"
     },
     "F1": {
-      "score": "1 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Países Bajos vs Japón está en juego por el Grupo F. Marcador actual: 1 - 0.",
+      "score": "2 - 2",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Países Bajos y Japón empataron 2 - 2 por el Grupo F. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537357,
       "utcDate": "2026-06-14T20:00:00Z"
