@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T17:59:27.831Z",
+  "updatedAt": "2026-06-14T19:51:35.385Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -70,10 +70,10 @@
       "utcDate": "2026-06-14T04:00:00Z"
     },
     "E1": {
-      "score": "3 - 1",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Alemania vs Curazao está en juego por el Grupo E. Marcador actual: 3 - 1.",
+      "score": "7 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Alemania venció 7 - 1 a Curazao por el Grupo E. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537351,
       "utcDate": "2026-06-14T17:00:00Z"
