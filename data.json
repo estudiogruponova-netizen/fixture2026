@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T16:26:29.184Z",
+  "updatedAt": "2026-06-14T17:59:27.831Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -70,10 +70,10 @@
       "utcDate": "2026-06-14T04:00:00Z"
     },
     "E1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo E: Alemania vs Curazao en Houston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "3 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Alemania vs Curazao está en juego por el Grupo E. Marcador actual: 3 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537351,
       "utcDate": "2026-06-14T17:00:00Z"
