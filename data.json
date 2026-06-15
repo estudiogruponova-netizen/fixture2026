@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T02:42:47.951Z",
+  "updatedAt": "2026-06-15T08:43:33.995Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -89,18 +89,18 @@
     },
     "E2": {
       "score": "1 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Costa de Marfil vs Ecuador está en juego por el Grupo E. Marcador actual: 1 - 0.",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Costa de Marfil venció 1 - 0 a Ecuador por el Grupo E. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537352,
       "utcDate": "2026-06-14T23:00:00Z"
     },
     "F2": {
-      "score": "2 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Túnez vs Suecia está en juego por el Grupo F. Marcador actual: 2 - 0.",
+      "score": "5 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Túnez venció 5 - 1 a Suecia por el Grupo F. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537358,
       "utcDate": "2026-06-15T02:00:00Z"
