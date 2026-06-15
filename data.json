@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T19:05:37.707Z",
+  "updatedAt": "2026-06-15T21:48:37.168Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -115,10 +115,10 @@
       "utcDate": "2026-06-15T16:00:00Z"
     },
     "G1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo G: Bélgica vs Egipto en Seattle Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Bélgica y Egipto empataron 1 - 1 por el Grupo G. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537363,
       "utcDate": "2026-06-15T19:00:00Z"
