@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T21:48:37.168Z",
+  "updatedAt": "2026-06-15T23:26:45.628Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -124,10 +124,10 @@
       "utcDate": "2026-06-15T19:00:00Z"
     },
     "H2": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo H: Arabia Saudita vs Uruguay en Miami Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Arabia Saudita vs Uruguay está en juego por el Grupo H. Marcador actual: 1 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537370,
       "utcDate": "2026-06-15T22:00:00Z"
