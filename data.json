@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T23:50:05.747Z",
+  "updatedAt": "2026-06-15T02:42:47.951Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -88,19 +88,19 @@
       "utcDate": "2026-06-14T20:00:00Z"
     },
     "E2": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo E: Costa de Marfil vs Ecuador en Philadelphia Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Costa de Marfil vs Ecuador está en juego por el Grupo E. Marcador actual: 1 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537352,
       "utcDate": "2026-06-14T23:00:00Z"
     },
     "F2": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo F: Túnez vs Suecia en Monterrey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "2 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Túnez vs Suecia está en juego por el Grupo F. Marcador actual: 2 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537358,
       "utcDate": "2026-06-15T02:00:00Z"
