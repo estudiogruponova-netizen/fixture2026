@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T17:51:12.177Z",
+  "updatedAt": "2026-06-16T20:56:32.558Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -142,10 +142,10 @@
       "utcDate": "2026-06-16T01:00:00Z"
     },
     "I1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo I: Francia vs Senegal en New York New Jersey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "2 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Francia vs Senegal está en juego por el Grupo I. Marcador actual: 2 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537391,
       "utcDate": "2026-06-16T19:00:00Z"
