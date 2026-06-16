@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T02:10:51.928Z",
+  "updatedAt": "2026-06-16T07:46:21.493Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -133,10 +133,10 @@
       "utcDate": "2026-06-15T22:00:00Z"
     },
     "G2": {
-      "score": "1 - 1",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Irán vs Nueva Zelanda está en juego por el Grupo G. Marcador actual: 1 - 1.",
+      "score": "2 - 2",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Irán y Nueva Zelanda empataron 2 - 2 por el Grupo G. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537364,
       "utcDate": "2026-06-16T01:00:00Z"
