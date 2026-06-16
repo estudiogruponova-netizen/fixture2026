@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T23:26:45.628Z",
+  "updatedAt": "2026-06-16T02:10:51.928Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -124,19 +124,19 @@
       "utcDate": "2026-06-15T19:00:00Z"
     },
     "H2": {
-      "score": "1 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Arabia Saudita vs Uruguay está en juego por el Grupo H. Marcador actual: 1 - 0.",
+      "score": "1 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Arabia Saudita y Uruguay empataron 1 - 1 por el Grupo H. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537370,
       "utcDate": "2026-06-15T22:00:00Z"
     },
     "G2": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo G: Irán vs Nueva Zelanda en Los Angeles Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Irán vs Nueva Zelanda está en juego por el Grupo G. Marcador actual: 1 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537364,
       "utcDate": "2026-06-16T01:00:00Z"
