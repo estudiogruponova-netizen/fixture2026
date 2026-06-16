@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T20:56:32.558Z",
+  "updatedAt": "2026-06-16T22:55:45.655Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -142,19 +142,19 @@
       "utcDate": "2026-06-16T01:00:00Z"
     },
     "I1": {
-      "score": "2 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Francia vs Senegal está en juego por el Grupo I. Marcador actual: 2 - 0.",
+      "score": "3 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Francia venció 3 - 1 a Senegal por el Grupo I. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537391,
       "utcDate": "2026-06-16T19:00:00Z"
     },
     "I2": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo I: Irak vs Noruega en Boston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 2",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Irak vs Noruega está en juego por el Grupo I. Marcador actual: 1 - 2.",
       "source": "football-data.org",
       "apiMatchId": 537392,
       "utcDate": "2026-06-16T22:00:00Z"
