@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T22:55:45.655Z",
+  "updatedAt": "2026-06-17T00:22:30.375Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -151,10 +151,10 @@
       "utcDate": "2026-06-16T19:00:00Z"
     },
     "I2": {
-      "score": "1 - 2",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Irak vs Noruega está en juego por el Grupo I. Marcador actual: 1 - 2.",
+      "score": "1 - 4",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Noruega venció 1 - 4 a Irak por el Grupo I. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537392,
       "utcDate": "2026-06-16T22:00:00Z"
