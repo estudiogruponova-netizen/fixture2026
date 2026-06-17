@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T19:36:55.971Z",
+  "updatedAt": "2026-06-17T21:34:34.749Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -187,10 +187,10 @@
       "utcDate": "2026-06-17T17:00:00Z"
     },
     "L1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo L: Inglaterra vs Croacia en Dallas Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "3 - 2",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Inglaterra vs Croacia está en juego por el Grupo L. Marcador actual: 3 - 2.",
       "source": "football-data.org",
       "apiMatchId": 537409,
       "utcDate": "2026-06-17T20:00:00Z"
