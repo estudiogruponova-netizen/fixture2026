@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T00:22:30.375Z",
+  "updatedAt": "2026-06-17T05:26:02.336Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -160,19 +160,19 @@
       "utcDate": "2026-06-16T22:00:00Z"
     },
     "J1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo J: Argentina vs Argelia en Kansas City Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "3 - 0",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Argentina venció 3 - 0 a Argelia por el Grupo J. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537397,
       "utcDate": "2026-06-17T01:00:00Z"
     },
     "J2": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo J: Austria vs Jordania en San Francisco Bay Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Austria vs Jordania está en juego por el Grupo J. Marcador actual: 1 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537398,
       "utcDate": "2026-06-17T04:00:00Z"
