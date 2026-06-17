@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T17:22:04.916Z",
+  "updatedAt": "2026-06-17T19:36:55.971Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -178,10 +178,10 @@
       "utcDate": "2026-06-17T04:00:00Z"
     },
     "K1": {
-      "score": "1 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Portugal vs RD Congo está en juego por el Grupo K. Marcador actual: 1 - 0.",
+      "score": "1 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Portugal y RD Congo empataron 1 - 1 por el Grupo K. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537403,
       "utcDate": "2026-06-17T17:00:00Z"
