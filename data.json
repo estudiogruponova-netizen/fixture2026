@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T14:05:34.003Z",
+  "updatedAt": "2026-06-17T17:22:04.916Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -178,10 +178,10 @@
       "utcDate": "2026-06-17T04:00:00Z"
     },
     "K1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo K: Portugal vs RD Congo en Houston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Portugal vs RD Congo está en juego por el Grupo K. Marcador actual: 1 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537403,
       "utcDate": "2026-06-17T17:00:00Z"
