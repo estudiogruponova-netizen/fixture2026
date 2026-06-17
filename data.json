@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T05:26:02.336Z",
+  "updatedAt": "2026-06-17T10:15:59.033Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -169,10 +169,10 @@
       "utcDate": "2026-06-17T01:00:00Z"
     },
     "J2": {
-      "score": "1 - 1",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Austria vs Jordania está en juego por el Grupo J. Marcador actual: 1 - 1.",
+      "score": "3 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Austria venció 3 - 1 a Jordania por el Grupo J. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537398,
       "utcDate": "2026-06-17T04:00:00Z"
