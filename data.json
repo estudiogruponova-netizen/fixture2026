@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T21:34:34.749Z",
+  "updatedAt": "2026-06-17T23:07:04.593Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -187,19 +187,19 @@
       "utcDate": "2026-06-17T17:00:00Z"
     },
     "L1": {
-      "score": "3 - 2",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Inglaterra vs Croacia está en juego por el Grupo L. Marcador actual: 3 - 2.",
+      "score": "4 - 2",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Inglaterra venció 4 - 2 a Croacia por el Grupo L. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537409,
       "utcDate": "2026-06-17T20:00:00Z"
     },
     "L2": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo L: Ghana vs Panamá en Toronto Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Ghana vs Panamá está en juego por el Grupo L. Marcador actual: 0 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537410,
       "utcDate": "2026-06-17T23:00:00Z"
