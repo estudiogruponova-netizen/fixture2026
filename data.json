@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T23:07:04.593Z",
+  "updatedAt": "2026-06-18T01:40:28.469Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -196,10 +196,10 @@
       "utcDate": "2026-06-17T20:00:00Z"
     },
     "L2": {
-      "score": "0 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Ghana vs Panamá está en juego por el Grupo L. Marcador actual: 0 - 0.",
+      "score": "1 - 0",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Ghana venció 1 - 0 a Panamá por el Grupo L. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537410,
       "utcDate": "2026-06-17T23:00:00Z"
