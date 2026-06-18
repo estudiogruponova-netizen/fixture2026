@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T14:21:01.430Z",
+  "updatedAt": "2026-06-18T17:43:09.831Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -214,10 +214,10 @@
       "utcDate": "2026-06-18T02:00:00Z"
     },
     "A3": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo A: Chequia vs Sudáfrica en Atlanta Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Chequia vs Sudáfrica está en juego por el Grupo A. Marcador actual: 1 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537329,
       "utcDate": "2026-06-18T16:00:00Z"
