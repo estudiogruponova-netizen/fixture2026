@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T00:10:59.706Z",
+  "updatedAt": "2026-06-19T05:28:49.857Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -232,10 +232,10 @@
       "utcDate": "2026-06-18T22:00:00Z"
     },
     "A4": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo A: México vs Corea del Sur en Guadalajara Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 0",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "México venció 1 - 0 a Corea del Sur por el Grupo A. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537330,
       "utcDate": "2026-06-19T01:00:00Z"
