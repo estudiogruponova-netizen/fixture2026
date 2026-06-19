@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T20:09:34.991Z",
+  "updatedAt": "2026-06-19T21:35:35.842Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -242,9 +242,9 @@
     },
     "D3": {
       "score": "2 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Estados Unidos vs Australia está en juego por el Grupo D. Marcador actual: 2 - 0.",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Estados Unidos venció 2 - 0 a Australia por el Grupo D. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537348,
       "utcDate": "2026-06-19T19:00:00Z"
