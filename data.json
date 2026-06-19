@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T21:35:35.842Z",
+  "updatedAt": "2026-06-19T22:36:31.717Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -250,10 +250,10 @@
       "utcDate": "2026-06-19T19:00:00Z"
     },
     "C3": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo C: Escocia vs Marruecos en Boston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Escocia vs Marruecos está en juego por el Grupo C. Marcador actual: 0 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537342,
       "utcDate": "2026-06-19T22:00:00Z"
