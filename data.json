@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T18:18:39.439Z",
+  "updatedAt": "2026-06-19T20:09:34.991Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -241,10 +241,10 @@
       "utcDate": "2026-06-19T01:00:00Z"
     },
     "D3": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo D: Estados Unidos vs Australia en Seattle Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "2 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Estados Unidos vs Australia está en juego por el Grupo D. Marcador actual: 2 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537348,
       "utcDate": "2026-06-19T19:00:00Z"
