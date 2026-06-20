@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T17:44:41.900Z",
+  "updatedAt": "2026-06-20T19:01:57.042Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -277,10 +277,10 @@
       "utcDate": "2026-06-20T03:00:00Z"
     },
     "F3": {
-      "score": "2 - 0",
+      "score": "5 - 1",
       "status": "En vivo",
       "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Países Bajos vs Suecia está en juego por el Grupo F. Marcador actual: 2 - 0.",
+      "summary": "Países Bajos vs Suecia está en juego por el Grupo F. Marcador actual: 5 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537359,
       "utcDate": "2026-06-20T17:00:00Z"
