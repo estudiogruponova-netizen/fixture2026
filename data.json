@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T16:00:33.074Z",
+  "updatedAt": "2026-06-20T17:44:41.900Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -277,10 +277,10 @@
       "utcDate": "2026-06-20T03:00:00Z"
     },
     "F3": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo F: Países Bajos vs Suecia en Houston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "2 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Países Bajos vs Suecia está en juego por el Grupo F. Marcador actual: 2 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537359,
       "utcDate": "2026-06-20T17:00:00Z"
