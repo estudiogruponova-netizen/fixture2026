@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T19:01:57.042Z",
+  "updatedAt": "2026-06-20T20:40:19.152Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -278,18 +278,18 @@
     },
     "F3": {
       "score": "5 - 1",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Países Bajos vs Suecia está en juego por el Grupo F. Marcador actual: 5 - 1.",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Países Bajos venció 5 - 1 a Suecia por el Grupo F. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537359,
       "utcDate": "2026-06-20T17:00:00Z"
     },
     "E3": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo E: Alemania vs Costa de Marfil en Toronto Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Alemania vs Costa de Marfil está en juego por el Grupo E. Marcador actual: 0 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537353,
       "utcDate": "2026-06-20T20:00:00Z"
