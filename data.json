@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T16:49:55.483Z",
+  "updatedAt": "2026-06-21T18:14:18.223Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -313,10 +313,10 @@
       "utcDate": "2026-06-21T04:00:00Z"
     },
     "H3": {
-      "score": "3 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "España vs Arabia Saudita está en juego por el Grupo H. Marcador actual: 3 - 0.",
+      "score": "5 - 0",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "España venció 5 - 0 a Arabia Saudita por el Grupo H. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537371,
       "utcDate": "2026-06-21T16:00:00Z"
