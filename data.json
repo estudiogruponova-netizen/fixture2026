@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T23:17:30.853Z",
+  "updatedAt": "2026-06-21T01:43:32.888Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -295,10 +295,10 @@
       "utcDate": "2026-06-20T20:00:00Z"
     },
     "E4": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo E: Ecuador vs Curazao en Kansas City Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Ecuador vs Curazao está en juego por el Grupo E. Marcador actual: 0 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537354,
       "utcDate": "2026-06-21T00:00:00Z"
