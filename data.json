@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T18:14:18.223Z",
+  "updatedAt": "2026-06-21T20:07:28.928Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -322,10 +322,10 @@
       "utcDate": "2026-06-21T16:00:00Z"
     },
     "G3": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo G: Bélgica vs Irán en Los Angeles Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Bélgica vs Irán está en juego por el Grupo G. Marcador actual: 0 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537365,
       "utcDate": "2026-06-21T19:00:00Z"
