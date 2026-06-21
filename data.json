@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T01:43:32.888Z",
+  "updatedAt": "2026-06-21T06:36:07.696Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -296,18 +296,18 @@
     },
     "E4": {
       "score": "0 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Ecuador vs Curazao está en juego por el Grupo E. Marcador actual: 0 - 0.",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Ecuador y Curazao empataron 0 - 0 por el Grupo E. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537354,
       "utcDate": "2026-06-21T00:00:00Z"
     },
     "F4": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo F: Túnez vs Japón en Monterrey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 4",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Japón venció 0 - 4 a Túnez por el Grupo F. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537360,
       "utcDate": "2026-06-21T04:00:00Z"
