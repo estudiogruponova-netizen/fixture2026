@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T21:41:38.176Z",
+  "updatedAt": "2026-06-21T22:53:10.980Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -331,10 +331,10 @@
       "utcDate": "2026-06-21T19:00:00Z"
     },
     "H4": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo H: Uruguay vs Cabo Verde en Miami Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Uruguay vs Cabo Verde está en juego por el Grupo H. Marcador actual: 1 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537372,
       "utcDate": "2026-06-21T22:00:00Z"
