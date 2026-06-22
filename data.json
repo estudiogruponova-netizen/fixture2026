@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T16:11:44.593Z",
+  "updatedAt": "2026-06-22T19:51:03.563Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -349,10 +349,10 @@
       "utcDate": "2026-06-22T01:00:00Z"
     },
     "J3": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo J: Argentina vs Austria en Dallas Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "2 - 0",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Argentina venció 2 - 0 a Austria por el Grupo J. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537399,
       "utcDate": "2026-06-22T17:00:00Z"
