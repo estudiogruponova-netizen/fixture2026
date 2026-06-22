@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T19:51:03.563Z",
+  "updatedAt": "2026-06-22T22:07:08.386Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -358,10 +358,10 @@
       "utcDate": "2026-06-22T17:00:00Z"
     },
     "I3": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo I: Francia vs Irak en Philadelphia Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Francia vs Irak está en juego por el Grupo I. Marcador actual: 1 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537393,
       "utcDate": "2026-06-22T21:00:00Z"
