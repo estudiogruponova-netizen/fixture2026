@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T22:53:10.980Z",
+  "updatedAt": "2026-06-22T00:15:24.556Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -331,10 +331,10 @@
       "utcDate": "2026-06-21T19:00:00Z"
     },
     "H4": {
-      "score": "1 - 1",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Uruguay vs Cabo Verde está en juego por el Grupo H. Marcador actual: 1 - 1.",
+      "score": "2 - 2",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Uruguay y Cabo Verde empataron 2 - 2 por el Grupo H. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537372,
       "utcDate": "2026-06-21T22:00:00Z"
