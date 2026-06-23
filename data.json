@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T15:41:49.043Z",
+  "updatedAt": "2026-06-23T17:31:51.515Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -385,10 +385,10 @@
       "utcDate": "2026-06-23T03:00:00Z"
     },
     "K3": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo K: Portugal vs Uzbekistán en Houston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "2 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Portugal vs Uzbekistán está en juego por el Grupo K. Marcador actual: 2 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537405,
       "utcDate": "2026-06-23T17:00:00Z"
