@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T19:31:09.565Z",
+  "updatedAt": "2026-06-23T21:18:45.661Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -394,10 +394,10 @@
       "utcDate": "2026-06-23T17:00:00Z"
     },
     "L3": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo L: Inglaterra vs Ghana en Boston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Inglaterra vs Ghana está en juego por el Grupo L. Marcador actual: 0 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537411,
       "utcDate": "2026-06-23T20:00:00Z"
