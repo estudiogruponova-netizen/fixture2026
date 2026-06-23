@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T22:42:44.252Z",
+  "updatedAt": "2026-06-23T23:43:41.375Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -403,10 +403,10 @@
       "utcDate": "2026-06-23T20:00:00Z"
     },
     "L4": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo L: Panamá vs Croacia en Toronto Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Panamá vs Croacia está en juego por el Grupo L. Marcador actual: 0 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537412,
       "utcDate": "2026-06-23T23:00:00Z"
