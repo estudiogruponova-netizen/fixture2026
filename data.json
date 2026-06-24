@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T20:54:37.979Z",
+  "updatedAt": "2026-06-24T22:21:08.513Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -422,27 +422,27 @@
     },
     "B5": {
       "score": "2 - 1",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Suiza vs Canadá está en juego por el Grupo B. Marcador actual: 2 - 1.",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Suiza venció 2 - 1 a Canadá por el Grupo B. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537337,
       "utcDate": "2026-06-24T19:00:00Z"
     },
     "C6": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo C: Marruecos vs Haití en Atlanta Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Marruecos vs Haití está en juego por el Grupo C. Marcador actual: 0 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537344,
       "utcDate": "2026-06-24T22:00:00Z"
     },
     "C5": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo C: Brasil vs Escocia en Miami Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Brasil vs Escocia está en juego por el Grupo C. Marcador actual: 0 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537343,
       "utcDate": "2026-06-24T22:00:00Z"
