@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T01:48:33.660Z",
+  "updatedAt": "2026-06-24T05:54:10.808Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -412,10 +412,10 @@
       "utcDate": "2026-06-23T23:00:00Z"
     },
     "K4": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo K: Colombia vs RD Congo en Guadalajara Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 0",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Colombia venció 1 - 0 a RD Congo por el Grupo K. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537406,
       "utcDate": "2026-06-24T02:00:00Z"
