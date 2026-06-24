@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T23:43:41.375Z",
+  "updatedAt": "2026-06-24T01:48:33.660Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -403,10 +403,10 @@
       "utcDate": "2026-06-23T20:00:00Z"
     },
     "L4": {
-      "score": "0 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Panamá vs Croacia está en juego por el Grupo L. Marcador actual: 0 - 0.",
+      "score": "0 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Croacia venció 0 - 1 a Panamá por el Grupo L. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537412,
       "utcDate": "2026-06-23T23:00:00Z"
