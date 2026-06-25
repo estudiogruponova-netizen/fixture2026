@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T19:28:06.682Z",
+  "updatedAt": "2026-06-25T21:15:10.077Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -466,19 +466,19 @@
       "utcDate": "2026-06-25T01:00:00Z"
     },
     "E5": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo E: Ecuador vs Alemania en New York New Jersey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Ecuador vs Alemania está en juego por el Grupo E. Marcador actual: 1 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537355,
       "utcDate": "2026-06-25T20:00:00Z"
     },
     "E6": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo E: Curazao vs Costa de Marfil en Philadelphia Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Curazao vs Costa de Marfil está en juego por el Grupo E. Marcador actual: 0 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537356,
       "utcDate": "2026-06-25T20:00:00Z"
