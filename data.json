@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T23:44:07.301Z",
+  "updatedAt": "2026-06-25T01:52:26.000Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 69,
@@ -430,37 +430,37 @@
       "utcDate": "2026-06-24T19:00:00Z"
     },
     "C6": {
-      "score": "2 - 2",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Marruecos vs Haití está en juego por el Grupo C. Marcador actual: 2 - 2.",
+      "score": "4 - 2",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Marruecos venció 4 - 2 a Haití por el Grupo C. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537344,
       "utcDate": "2026-06-24T22:00:00Z"
     },
     "C5": {
       "score": "0 - 3",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Brasil vs Escocia está en juego por el Grupo C. Marcador actual: 0 - 3.",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Escocia venció 0 - 3 a Brasil por el Grupo C. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537343,
       "utcDate": "2026-06-24T22:00:00Z"
     },
     "A5": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo A: México vs Chequia en Mexico City Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "México vs Chequia está en juego por el Grupo A. Marcador actual: 0 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537331,
       "utcDate": "2026-06-25T01:00:00Z"
     },
     "A6": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo A: Sudáfrica vs Corea del Sur en Monterrey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Sudáfrica vs Corea del Sur está en juego por el Grupo A. Marcador actual: 0 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537332,
       "utcDate": "2026-06-25T01:00:00Z"
