@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T20:04:06.022Z",
+  "updatedAt": "2026-06-26T21:39:05.765Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 70,
@@ -520,19 +520,19 @@
       "utcDate": "2026-06-26T02:00:00Z"
     },
     "I5": {
-      "score": "1 - 3",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Noruega vs Francia está en juego por el Grupo I. Marcador actual: 1 - 3.",
+      "score": "1 - 4",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Francia venció 1 - 4 a Noruega por el Grupo I. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537395,
       "utcDate": "2026-06-26T19:00:00Z"
     },
     "I6": {
-      "score": "1 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Senegal vs Irak está en juego por el Grupo I. Marcador actual: 1 - 0.",
+      "score": "5 - 0",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Senegal venció 5 - 0 a Irak por el Grupo I. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537396,
       "utcDate": "2026-06-26T19:00:00Z"
