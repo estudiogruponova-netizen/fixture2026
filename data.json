@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T11:24:47.138Z",
+  "updatedAt": "2026-06-26T13:30:31.756Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 70,
@@ -61,22 +61,22 @@
       "utcDate": "2026-06-14T01:00:00Z"
     },
     "D2": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo D: Australia vs Turquía en BC Place Vancouver. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "2 - 0",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Australia venció 2 - 0 a Turquía por el Grupo D. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
-      "apiMatchId": 537428,
-      "utcDate": "2026-07-03T18:00:00Z"
+      "apiMatchId": 537346,
+      "utcDate": "2026-06-14T04:00:00Z"
     },
     "E1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo E: Alemania vs Curazao en Houston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "7 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Alemania venció 7 - 1 a Curazao por el Grupo E. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
-      "apiMatchId": 537415,
-      "utcDate": "2026-06-29T20:30:00Z"
+      "apiMatchId": 537351,
+      "utcDate": "2026-06-14T17:00:00Z"
     },
     "F1": {
       "score": "2 - 2",
@@ -160,13 +160,13 @@
       "utcDate": "2026-06-16T22:00:00Z"
     },
     "J1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo J: Argentina vs Argelia en Kansas City Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "3 - 0",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Argentina venció 3 - 0 a Argelia por el Grupo J. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
-      "apiMatchId": 537427,
-      "utcDate": "2026-07-03T22:00:00Z"
+      "apiMatchId": 537397,
+      "utcDate": "2026-06-17T01:00:00Z"
     },
     "J2": {
       "score": "3 - 1",
