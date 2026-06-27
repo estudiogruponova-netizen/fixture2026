@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T20:45:18.554Z",
+  "updatedAt": "2026-06-27T21:46:52.206Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 70,
@@ -574,19 +574,19 @@
       "utcDate": "2026-06-27T03:00:00Z"
     },
     "L5": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo L: Panamá vs Inglaterra en New York New Jersey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Panamá vs Inglaterra está en juego por el Grupo L. Marcador actual: 0 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537413,
       "utcDate": "2026-06-27T21:00:00Z"
     },
     "L6": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo L: Croacia vs Ghana en Philadelphia Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "1 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Croacia vs Ghana está en juego por el Grupo L. Marcador actual: 1 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537414,
       "utcDate": "2026-06-27T21:00:00Z"
