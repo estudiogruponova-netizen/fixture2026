@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T22:50:15.489Z",
+  "updatedAt": "2026-06-27T00:12:21.575Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 70,
@@ -538,19 +538,19 @@
       "utcDate": "2026-06-26T19:00:00Z"
     },
     "H5": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo H: Uruguay vs España en Guadalajara Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Uruguay vs España está en juego por el Grupo H. Marcador actual: 0 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537373,
       "utcDate": "2026-06-27T00:00:00Z"
     },
     "H6": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo H: Cabo Verde vs Arabia Saudita en Houston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Cabo Verde vs Arabia Saudita está en juego por el Grupo H. Marcador actual: 0 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537374,
       "utcDate": "2026-06-27T00:00:00Z"
