@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T22:46:56.235Z",
+  "updatedAt": "2026-06-27T23:46:33.889Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 70,
@@ -575,36 +575,36 @@
     },
     "L5": {
       "score": "0 - 2",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Panamá vs Inglaterra está en juego por el Grupo L. Marcador actual: 0 - 2.",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Inglaterra venció 0 - 2 a Panamá por el Grupo L. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537413,
       "utcDate": "2026-06-27T21:00:00Z"
     },
     "L6": {
-      "score": "1 - 1",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Croacia vs Ghana está en juego por el Grupo L. Marcador actual: 1 - 1.",
+      "score": "2 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Croacia venció 2 - 1 a Ghana por el Grupo L. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537414,
       "utcDate": "2026-06-27T21:00:00Z"
     },
     "K5": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo K: Colombia vs Portugal en Miami Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 0",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "Colombia vs Portugal está en juego por el Grupo K. Marcador actual: 0 - 0.",
       "source": "football-data.org",
       "apiMatchId": 537407,
       "utcDate": "2026-06-27T23:30:00Z"
     },
     "K6": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo K: RD Congo vs Uzbekistán en Atlanta Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 1",
+      "status": "En vivo",
+      "goals": "Goles y eventos: actualizando desde API.",
+      "summary": "RD Congo vs Uzbekistán está en juego por el Grupo K. Marcador actual: 0 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537408,
       "utcDate": "2026-06-27T23:30:00Z"
