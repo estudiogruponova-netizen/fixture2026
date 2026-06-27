@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T04:29:00.746Z",
+  "updatedAt": "2026-06-27T07:36:59.949Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 70,
@@ -61,22 +61,22 @@
       "utcDate": "2026-06-14T01:00:00Z"
     },
     "D2": {
-      "score": "2 - 0",
-      "status": "Finalizado",
-      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
-      "summary": "Australia venció 2 - 0 a Turquía por el Grupo D. Resultado actualizado automáticamente con datos de la API.",
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo D: Australia vs Turquía en BC Place Vancouver. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
       "source": "football-data.org",
-      "apiMatchId": 537346,
-      "utcDate": "2026-06-14T04:00:00Z"
+      "apiMatchId": 537428,
+      "utcDate": "2026-07-03T18:00:00Z"
     },
     "E1": {
-      "score": "7 - 1",
-      "status": "Finalizado",
-      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
-      "summary": "Alemania venció 7 - 1 a Curazao por el Grupo E. Resultado actualizado automáticamente con datos de la API.",
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo E: Alemania vs Curazao en Houston Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
       "source": "football-data.org",
-      "apiMatchId": 537351,
-      "utcDate": "2026-06-14T17:00:00Z"
+      "apiMatchId": 537415,
+      "utcDate": "2026-06-29T20:30:00Z"
     },
     "F1": {
       "score": "2 - 2",
@@ -88,13 +88,13 @@
       "utcDate": "2026-06-14T20:00:00Z"
     },
     "E2": {
-      "score": "1 - 0",
-      "status": "Finalizado",
-      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
-      "summary": "Costa de Marfil venció 1 - 0 a Ecuador por el Grupo E. Resultado actualizado automáticamente con datos de la API.",
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo E: Costa de Marfil vs Ecuador en Philadelphia Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
       "source": "football-data.org",
-      "apiMatchId": 537352,
-      "utcDate": "2026-06-14T23:00:00Z"
+      "apiMatchId": 537424,
+      "utcDate": "2026-06-30T17:00:00Z"
     },
     "F2": {
       "score": "5 - 1",
@@ -160,13 +160,13 @@
       "utcDate": "2026-06-16T22:00:00Z"
     },
     "J1": {
-      "score": "3 - 0",
-      "status": "Finalizado",
-      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
-      "summary": "Argentina venció 3 - 0 a Argelia por el Grupo J. Resultado actualizado automáticamente con datos de la API.",
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo J: Argentina vs Argelia en Kansas City Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
       "source": "football-data.org",
-      "apiMatchId": 537397,
-      "utcDate": "2026-06-17T01:00:00Z"
+      "apiMatchId": 537427,
+      "utcDate": "2026-07-03T22:00:00Z"
     },
     "J2": {
       "score": "3 - 1",
@@ -556,19 +556,19 @@
       "utcDate": "2026-06-27T00:00:00Z"
     },
     "G5": {
-      "score": "0 - 2",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Nueva Zelanda vs Bélgica está en juego por el Grupo G. Marcador actual: 0 - 2.",
+      "score": "1 - 5",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Bélgica venció 1 - 5 a Nueva Zelanda por el Grupo G. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537367,
       "utcDate": "2026-06-27T03:00:00Z"
     },
     "G6": {
       "score": "1 - 1",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Egipto vs Irán está en juego por el Grupo G. Marcador actual: 1 - 1.",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Egipto y Irán empataron 1 - 1 por el Grupo G. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537368,
       "utcDate": "2026-06-27T03:00:00Z"
