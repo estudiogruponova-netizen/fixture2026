@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T21:46:52.206Z",
+  "updatedAt": "2026-06-27T22:46:56.235Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 70,
@@ -574,19 +574,19 @@
       "utcDate": "2026-06-27T03:00:00Z"
     },
     "L5": {
-      "score": "0 - 0",
+      "score": "0 - 2",
       "status": "En vivo",
       "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Panamá vs Inglaterra está en juego por el Grupo L. Marcador actual: 0 - 0.",
+      "summary": "Panamá vs Inglaterra está en juego por el Grupo L. Marcador actual: 0 - 2.",
       "source": "football-data.org",
       "apiMatchId": 537413,
       "utcDate": "2026-06-27T21:00:00Z"
     },
     "L6": {
-      "score": "1 - 0",
+      "score": "1 - 1",
       "status": "En vivo",
       "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Croacia vs Ghana está en juego por el Grupo L. Marcador actual: 1 - 0.",
+      "summary": "Croacia vs Ghana está en juego por el Grupo L. Marcador actual: 1 - 1.",
       "source": "football-data.org",
       "apiMatchId": 537414,
       "utcDate": "2026-06-27T21:00:00Z"
