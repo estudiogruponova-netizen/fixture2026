@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T23:46:33.889Z",
+  "updatedAt": "2026-06-28T01:57:35.843Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 70,
@@ -593,18 +593,18 @@
     },
     "K5": {
       "score": "0 - 0",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "Colombia vs Portugal está en juego por el Grupo K. Marcador actual: 0 - 0.",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Colombia y Portugal empataron 0 - 0 por el Grupo K. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537407,
       "utcDate": "2026-06-27T23:30:00Z"
     },
     "K6": {
-      "score": "0 - 1",
-      "status": "En vivo",
-      "goals": "Goles y eventos: actualizando desde API.",
-      "summary": "RD Congo vs Uzbekistán está en juego por el Grupo K. Marcador actual: 0 - 1.",
+      "score": "3 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "RD Congo venció 3 - 1 a Uzbekistán por el Grupo K. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
       "apiMatchId": 537408,
       "utcDate": "2026-06-27T23:30:00Z"
