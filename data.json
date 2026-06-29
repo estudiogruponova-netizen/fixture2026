@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-06-29T04:19:00.427Z",
+  "updatedAt": "2026-06-29T09:13:44.705Z",
   "source": "football-data.org",
   "automatic": true,
-  "matchedResults": 70,
+  "matchedResults": 71,
   "apiMatchesRead": 104,
   "lastError": null,
   "results": {
@@ -635,6 +635,15 @@
       "source": "football-data.org",
       "apiMatchId": 537429,
       "utcDate": "2026-07-03T03:00:00Z"
+    },
+    "B1": {
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo B: Canadá vs Bosnia y Herzegovina en Toronto Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "source": "football-data.org",
+      "apiMatchId": 537376,
+      "utcDate": "2026-07-04T17:00:00Z"
     }
   }
 }
