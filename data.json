@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T05:05:21.593Z",
+  "updatedAt": "2026-07-10T08:37:13.764Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 71,
@@ -142,13 +142,13 @@
       "utcDate": "2026-06-16T01:00:00Z"
     },
     "I1": {
-      "score": "3 - 1",
-      "status": "Finalizado",
-      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
-      "summary": "Francia venció 3 - 1 a Senegal por el Grupo I. Resultado actualizado automáticamente con datos de la API.",
+      "score": "VS",
+      "status": "Programado",
+      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
+      "summary": "Cruce del Grupo I: Francia vs Senegal en New York New Jersey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
       "source": "football-data.org",
-      "apiMatchId": 537391,
-      "utcDate": "2026-06-16T19:00:00Z"
+      "apiMatchId": 537387,
+      "utcDate": "2026-07-14T19:00:00Z"
     },
     "I2": {
       "score": "1 - 4",
