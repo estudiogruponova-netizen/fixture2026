@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T06:06:17.696Z",
+  "updatedAt": "2026-07-16T08:32:08.769Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 71,
@@ -106,13 +106,13 @@
       "utcDate": "2026-06-15T02:00:00Z"
     },
     "H1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo H: España vs Cabo Verde en Atlanta Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "0 - 0",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "España y Cabo Verde empataron 0 - 0 por el Grupo H. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
-      "apiMatchId": 537390,
-      "utcDate": "2026-07-19T19:00:00Z"
+      "apiMatchId": 537369,
+      "utcDate": "2026-06-15T16:00:00Z"
     },
     "G1": {
       "score": "1 - 1",
@@ -142,13 +142,13 @@
       "utcDate": "2026-06-16T01:00:00Z"
     },
     "I1": {
-      "score": "VS",
-      "status": "Programado",
-      "goals": "Goles: se cargarán cuando empiece o termine el partido.",
-      "summary": "Cruce del Grupo I: Francia vs Senegal en New York New Jersey Stadium. Partido de fase de grupos con puntos clave para encaminar la clasificación.",
+      "score": "3 - 1",
+      "status": "Finalizado",
+      "goals": "Resultado actualizado por API. El detalle de goleadores no está disponible en el plan actual.",
+      "summary": "Francia venció 3 - 1 a Senegal por el Grupo I. Resultado actualizado automáticamente con datos de la API.",
       "source": "football-data.org",
-      "apiMatchId": 537389,
-      "utcDate": "2026-07-18T21:00:00Z"
+      "apiMatchId": 537391,
+      "utcDate": "2026-06-16T19:00:00Z"
     },
     "I2": {
       "score": "1 - 4",
