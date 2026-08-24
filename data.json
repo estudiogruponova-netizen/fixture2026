@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-24T22:59:50.645Z",
+  "updatedAt": "2026-08-24T23:30:03.417Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 71,
-  "apiMatchesRead": 104,
-  "lastError": null,
+  "apiMatchesRead": 0,
+  "lastError": "400 : {\"message\":\"Specified period must not exceed 10 days.\",\"errorCode\":400}",
   "results": {
     "A1": {
       "score": "2 - 0",
