@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-25T21:32:01.374Z",
+  "updatedAt": "2026-08-25T21:58:15.628Z",
   "source": "football-data.org",
   "automatic": true,
   "matchedResults": 71,
-  "apiMatchesRead": 0,
-  "lastError": "fetch failed",
+  "apiMatchesRead": 104,
+  "lastError": null,
   "results": {
     "A1": {
       "score": "2 - 0",
